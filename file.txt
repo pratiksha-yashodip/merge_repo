@@ -1,1 +1,2 @@
 hello.....file
+2nd line is added by console
