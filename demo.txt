@@ -1,2 +1,5 @@
 hello demo file
+<<<<<<< HEAiD
 2nd line added to demo file by console
+=======
+>>>>>>> origin/main

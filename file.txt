@@ -1,2 +1,5 @@
 hello.....file
+<<<<<<< HEAD
 2nd line is added by console
+=======
+>>>>>>> origin/main
